@@ -1,2 +1,4 @@
 # Qatar-UI-post
-Qatar postal service company
+Client: Qatar postal service company
+Wipro Limited
+Sarjapura, Benguluru-560035.
